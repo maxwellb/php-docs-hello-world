@@ -1,5 +1,5 @@
 <?php
 
-echo "Hello World! For release 1";
+echo "Hello World! For release 2";
 
 ?>
